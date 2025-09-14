@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to my profile page !
+
+<!-- 
 ## 🛠️ Languages and Tools
 
 <br>
@@ -11,6 +14,8 @@
 
 <hr>
 
+
+
 ## ⚡️ Stats
 
 <br>
@@ -21,24 +26,9 @@
 
 <hr>
 
-<!-- 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="----'s GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="----'s" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=USERNAME&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="USERNAME's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=transparent&count_private=true&border_radius=10&locale=en" alt="USERNAME's" />
 -->
-
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaminMdn/RaminMdn/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaminMdn/RaminMdn/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/RaminMdn/RaminMdn/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<hr>
-
 
 
 <!--
