@@ -5,8 +5,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,java,matlab,,md,latex,git,github,gitlab,azure,docker" />
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,jenkins,powershell,linux,arduino" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,java,matlab,,md,latex,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,azure,docker,jenkins,powershell,linux,arduino" />
 </p>
 
 <hr>
