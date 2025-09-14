@@ -1,9 +1,15 @@
 ## Hi there 👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/RaminMdn/count.svg" alt="Visitor's Count" />
-</div>
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,sql,matlab,postgres,md,latex,java,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,azure,jenkins,docker,powershell,linux" />
+</p>
+
+<hr>
 
 <!--
 **RaminMdn/RaminMdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
